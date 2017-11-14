@@ -1,0 +1,9 @@
+Welcome! <Press Enter>
+First, let us start with a Tutorial! <Press Enter>
+To move left or right, use the A and D keys. <Press Enter>
+To jump press the W key. You can jump a second time by pressing the W key again. <Press Enter>
+You can pause at any time by pressing the Escape button. <Press Enter>
+See those coins up there? Well, if you get them, it will increase your score, which you can see at the top right hand side of screen. Go and get them! <Press Enter>
+
+
+

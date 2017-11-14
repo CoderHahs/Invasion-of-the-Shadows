@@ -1,0 +1,4 @@
+Good Job on getting those coins! <Press Enter>
+Ok next up are the enemies, such as an ancient warrior! To my right is an enemy that you must face in combat. To attack the enemy you must press J. <Press Enter>
+If the enemy hits you, you will notice that your health bar, located in the top left corner of the screen, will start to turn red, because of the reduction in health. <Press Enter>
+Once the health bar is completely red, you will die. Fortunately, you have three lives at the start of the game. At the end of each level there will be a Heart, that will give you an extra life. Now go and fight those enemies! <Press Enter>

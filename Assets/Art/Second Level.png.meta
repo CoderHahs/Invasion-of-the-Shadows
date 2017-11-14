@@ -1,0 +1,289 @@
+fileFormatVersion: 2
+guid: a40efde06d6a0454ab720042675f1892
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Second Level_0
+    21300002: Second Level_1
+    21300004: Second Level_2
+    21300006: Second Level_3
+    21300008: Second Level_4
+    21300010: Second Level_5
+    21300012: Second Level_6
+    21300014: Second Level_7
+    21300016: Second Level_8
+    21300018: Second Level_9
+    21300020: Second Level_10
+    21300022: Second Level_11
+    21300024: Second Level_12
+    21300026: Second Level_13
+    21300028: Second Level_14
+    21300030: Second Level_15
+    21300032: Second Level_16
+    21300034: Second Level_17
+    21300036: Second Level_18
+    21300038: Second Level_19
+    21300040: Second Level_20
+    21300042: Second Level_21
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Second Level_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 345
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Second Level_1
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 345
+        width: 45
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Second Level_2
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 345
+        width: 44
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Second Level_3
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 345
+        width: 45
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Second Level_4
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 276
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Second Level_5
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 276
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Second Level_6
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 276
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Second Level_7
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 276
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Second Level_8
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 207
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Second Level_9
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 207
+        width: 84
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Second Level_10
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 207
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Second Level_11
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 207
+        width: 84
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Second Level_12
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 138
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Second Level_13
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 138
+        width: 49
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Second Level_14
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 138
+        width: 74
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Second Level_15
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 69
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Second Level_16
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 69
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Second Level_17
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 69
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Second Level_18
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 0
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Second Level_19
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 0
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Second Level_20
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 0
+        width: 47
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Second Level_21
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 0
+        width: 86
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

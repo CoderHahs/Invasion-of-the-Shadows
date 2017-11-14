@@ -1,0 +1,46 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{67D68311-F909-70BE-CD73-4EAB6A19F931}") = "Real Game", "Assembly-CSharp.csproj", "{E6E77377-B9F7-F1E5-DAD5-5B2252B17C09}"
+EndProject
+Project("{67D68311-F909-70BE-CD73-4EAB6A19F931}") = "Real Game", "Assembly-UnityScript.unityproj", "{7C0AF982-B58C-C3EA-2FED-2CB5526D2257}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6E77377-B9F7-F1E5-DAD5-5B2252B17C09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6E77377-B9F7-F1E5-DAD5-5B2252B17C09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6E77377-B9F7-F1E5-DAD5-5B2252B17C09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6E77377-B9F7-F1E5-DAD5-5B2252B17C09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C0AF982-B58C-C3EA-2FED-2CB5526D2257}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C0AF982-B58C-C3EA-2FED-2CB5526D2257}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C0AF982-B58C-C3EA-2FED-2CB5526D2257}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C0AF982-B58C-C3EA-2FED-2CB5526D2257}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+																																																																																																																																																																																																					GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.IndentWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+
+EndGlobal
