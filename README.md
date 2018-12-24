@@ -1,9 +1,8 @@
 # Invasion-of-the-Shadows
 A 2D computer game made using Unity
 
-Hi! Welcome to the game called Invasion of the Shadows created by Hrithik Shah in 2015.
-
-In this repository, you will find two folders that will help you download the game.
+Hi! Welcome to the game called Invasion of the Shadows created by Hrithik Shah.
+In this repository, you will find two folders:
 
 The one that has “mac” in its name is to be opened by Mac users.
 The one that has “windows” in its name is to be opened by Windows users.
